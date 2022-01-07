@@ -3,6 +3,8 @@
 
 Site réalisé sous Symfony - Toutes les fonctionnalités sont codés de A à Z !
 
+CSS/HTML/JS réalisé avec Bootstrap.
+
 Petit aperçu :
 
 ![Screenshot](Site.gif)
@@ -33,3 +35,9 @@ Fonctionnalité du site :
 -  Ajout d'un panier (nombres d'articles, quantité, total)
 
 ![Screenshot](Site3.gif)
+
+4. Pour aller plus loins :
+
+- Ajout d'un espace "nous contacter"
+
+![Screenshot](Site4.gif)
