@@ -19,7 +19,7 @@ Fonctionnalité du site :
 - Modification mot de passe
 - Conexion/Déconnexion
 
-2. Adminitration :
+2. Administration :
 
 - Utilisation d'un BackOffice avec Easy Admin
 - Ajout/Edition/Suppression des produits via le backoffice
